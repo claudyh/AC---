@@ -1,7 +1,7 @@
 ## Computers Architecture exercises
 *in MIPS assembly code*
 
-*‣*
+&nbsp;
 
 ### 📋 **Problems Description**
 
